@@ -1,0 +1,33 @@
+header{
+    z-index: 100;
+}
+#hero_section{
+    background-image: url(./images/architect.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#br_text{
+    padding: 8px 20px;
+    background-color: rgba(0,0,0,0.6);
+}
+#br_text2{
+    letter-spacing: 4px;
+}
+#projects_section .card{
+    margin-bottom: 16px;
+}
+#about_section h2{
+    font-size: 23px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#about_section h4{
+    font-size: 15px;
+}
+/* #about_section button{
+    padding-top: 6px;
+    padding-bottom: 6px;
+} */
+
